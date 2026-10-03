@@ -55,5 +55,6 @@ This dashboard shows Batch 1 evaluated using Mode B, with an acceptable pH range
 |3       |95.89                        |93.15                      |44.6                                         |
 |4       |100.0                        |96.47                      |48.6                                         |
 |5       |48.62                        |99.08                      |24.7                                         |
+
 The summary table gives an overview of each fermentation batch by reporting the percentage of measurements that pH and temperature remained within their acceptable operating ranges, along with the final product concentration. 
 These metrics allow batches to be compared efficiently.
